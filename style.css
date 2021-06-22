@@ -1,0 +1,10 @@
+@media all and (max-width:800px) {
+    .page {
+        opacity: 0;
+        color: white;
+    }
+    .one {
+        cursor: not-allowed;
+        opacity: 0;
+    }
+}
